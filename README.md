@@ -82,7 +82,7 @@ button{
 <script>
 function generateCode(){
     document.getElementById("code").innerHTML =
-    "ABCD-EFGH";
+    "SAMY-1234";
 }
 </script>
 
